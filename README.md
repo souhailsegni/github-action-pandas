@@ -1,4 +1,4 @@
-# 02_06 Challenge: Develop a CI Workflow
+Simple Challenge: Develop a CI Workflow
 
 ## INTRODUCTION
 It’s time for a challenge!
